@@ -1,24 +1,5 @@
 # Sonat Consultings Påskemysterie 2020
 
-Litt help og hint. 
-
-Etter å ha lese "mysteriet", må du velge om du vil hoppe inn i koden, som desverre ikkje ligg med i egget, men er her på github, eller
-om du vil prøve å følge hintet på lappen.
-
-Utfordring nr 1. Lapp i påskeegg.
-
-Lappen i påskeegget inneheld meldingen: "Используйте https://europe-west1-paskeegg2020.cloudfunctions.net/auth для входа"
-
-<details>
-  <summary>Hint 1</summary>
-Prøv å kall adressa med ulike metoder og parameter
-</details>
-
-
-Utfordring nr 2. "Ufullstendig kode" fra dark web
-
-# Sonat Consultings Påskemysterie 2020
-
 
 Det aller beste er om folk prøver og feiler og tenker seg fram til en veg til mål gjennom feilmeldinger og andre ting en kan plukke opp, men det er forståelig at ikkje alle nødvendigvis forstår logikken her. Derfor legg eg ut litt hint her, og mot slutten av påsken heile løysinga.
 
