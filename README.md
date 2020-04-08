@@ -3,7 +3,7 @@
 
 Det aller beste er om folk prøver og feiler og tenker seg fram til en veg til mål gjennom feilmeldinger og andre ting en kan plukke opp, men det er forståelig at ikkje alle nødvendigvis forstår logikken her. Derfor legg eg ut litt hint her, og mot slutten av påsken heile løysinga.
 
-Etter å ha lese "mysteriet", må du velge om du vil hoppe inn i koden, som desverre ikkje ligg med i egget, men er her på github, eller om du vil prøve å følge hintet på lappen. H
+Etter å ha lese "mysteriet", må du velge om du vil hoppe inn i koden, som desverre ikkje ligg med i egget, men er her på github, eller om du vil prøve å følge hintet på lappen.
 
 <h5>Utfordring nr 1. Lappen i påskeegget</h5>
 
@@ -33,7 +33,7 @@ Du bør sende en gyldig JSON body, og finne ut kva felt som trengs
 </details>
 <details>
   <summary>Hint 2</summary>
-  Installer korrekt IDE og pakker/avhengigheter
+  Har du installert korrekt IDE og pakker/avhengigheter?
 </details>
 <details>
   <summary>Hint 3</summary>
@@ -41,6 +41,6 @@ Du bør sende en gyldig JSON body, og finne ut kva felt som trengs
 </details>
 <details>
   <summary>Hint 4</summary>
-  Du treng info fått fra lappen for å komme i mål
+  Du bør løyse utfordring nr 1 for å komme videre
 </details>
 
